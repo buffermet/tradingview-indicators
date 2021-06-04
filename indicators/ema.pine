@@ -1,0 +1,6 @@
+study("EMAs 200,100,50,20", overlay=true)
+
+plot(ema(close, 200), color=#00f2ff, title= "EMA200", linewidth=2)
+plot(ema(close, 100), color=#ff2770, title="EMA100", linewidth=2)
+plot(ema(close, 50), color=#ffeb3b, title="EMA50", linewidth=2)
+plot(ema(close, 20), color=#673ab7, title="EMA20", linewidth=2)
