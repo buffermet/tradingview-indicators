@@ -2,6 +2,6 @@
 
 ### <a href="https://github.com/buffermet/tradingview-indicators/blob/main/indicators/ema.pine">EMAs (200,100,50,20)</a>
 
-Plots the exponantial moving average prices of the last 200, 100, 50 and 20 klines. The minimum amount of klines used to calculate these EMAs is 200.
+Plots the exponantial moving average prices of the last 200, 100, 50 and 20 klines. The minimum amount of klines used to calculate any of these EMAs is 200.
 
 <img width="480pt" title="EMAs 200,100,50,20" src="https://user-images.githubusercontent.com/29265684/120787186-6f595080-c572-11eb-997c-5d5d2e9ca70c.png" />
