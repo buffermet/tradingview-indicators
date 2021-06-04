@@ -1,5 +1,7 @@
 # Pinescript indicators for TradingView charts.
 
+### Moving Average
+
 ### <a href="https://github.com/buffermet/tradingview-indicators/blob/main/indicators/ema.pine">EMAs (200,100,50,20)</a>
 
 Plots the exponantial moving average prices of the last 200, 100, 50 and 20 klines. The minimum amount of klines used to calculate any of these EMAs is 200.
