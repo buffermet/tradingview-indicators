@@ -1,0 +1,6 @@
+study("SMAs 200,100,50,20", overlay=true)
+
+plot(sma(close, 200), color=#00f2ff, title= "SMA200", linewidth=2)
+plot(sma(close, 100), color=#ff2770, title="SMA100", linewidth=2)
+plot(sma(close, 50), color=#ffeb3b, title="SMA50", linewidth=2)
+plot(sma(close, 20), color=#673ab7, title="SMA20", linewidth=2)
